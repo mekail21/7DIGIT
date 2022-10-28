@@ -391,7 +391,7 @@ def action():
 🌸(¸.•´🍃(¸.•´ .•´ .🌸
 	"""
 	raw_input('\n[Press Enter To Go Back]')
-	os.system('python2 hack.py')
+	os.system('python mekail.py')
 		
 if __name__ == '__main__':
 	menu()
